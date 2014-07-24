@@ -1,6 +1,6 @@
 ##[Domain-specific Highlights in Personal Videos](http://aliensunmin.github.io/project/at-a-glance/)
 
-[![Watch the concept video](http://img.youtube.com/vi/H5wW6LsubKc/0.jpg)](http://www.youtube.com/watch?v=H5wW6LsubKc)
+[![Watch the concept video](http://img.youtube.com/vi/ad8uj3rE3yc/0.jpg)](http://www.youtube.com/watch?v=ad8uj3rE3yc)
 
 Here are the data and some codes used in paper [1].
 [1] described a fully automatic method to train domain-specific highlight ranker for raw personal videos.
